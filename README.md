@@ -16,7 +16,7 @@ Clone the Repository
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/USERNAME/Jesna_AutoResponse_CollegeName.git
+git clone https://github.com/SHRINIDHI DV/SHRINIDHI_TASK1_VCET.git
 Navigate to the project directory:
 bash
 Copy code
@@ -44,7 +44,7 @@ The script uses the following sample data:
 json
 Copy code
 {
-  "from_name": "Jesna",
+  "from_name": "SHRINIDHI",
   "client_first_name": "Geminas",
   "client_last_name": "Ket",
   "client_email": "GeminasKet@gmail.com",
@@ -64,11 +64,11 @@ Dear Geminas Ket,
 
 Thank you for reaching out!
 
-I'm Jesna, and I’d be happy to assist with the functionality setup for your real estate website. Based on your requirements, we’ll create four dynamic pages: one each for apartments, houses, business centres, and land, with two connected filters for sale and rent. This will ensure a functional and streamlined user experience.
+I'm SHRINIDHI, and I’d be happy to assist with the functionality setup for your real estate website. Based on your requirements, we’ll create four dynamic pages: one each for apartments, houses, business centres, and land, with two connected filters for sale and rent. This will ensure a functional and streamlined user experience.
 
 Given the budget constraints, please let me know if you’d like to discuss further to align the requirements with your budget of $100000.
 
 Looking forward to your response.
 
 Best regards,
-Jesna
+SHRINIDHI
